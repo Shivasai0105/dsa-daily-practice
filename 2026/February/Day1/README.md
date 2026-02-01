@@ -1,0 +1,1 @@
+revised the previous last week problems and logic of them
